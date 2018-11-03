@@ -1,2 +1,2 @@
-# keras_tutorials
+# Keras Tutorials
 Codes for various tutorials
